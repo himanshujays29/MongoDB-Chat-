@@ -1,0 +1,76 @@
+body{
+    margin-left: 20px;
+}
+
+.chat{
+    background-color:rgb(224, 240, 254);
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+}
+
+.msg{
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 15px;
+}
+
+.msg form{
+    display: inline-block;
+}
+
+.btn3{
+    font-size: 16px;
+    width: 110px;
+    border: 2px solid dodgerblue;
+    background-color: rgb(181, 227, 255);
+    border-radius: 20px;
+    height: 40px;
+}
+
+.btn{
+    font-size: 12px;
+    width: 60px;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 20px;
+    background-color: rgb(216, 245, 254);
+}
+
+.del{
+    margin-left: 20px;
+}
+
+.dis{
+    padding: 10px;
+    height: 80px;
+    width: 154px;
+    background-color: rgb(224, 240, 254);
+}
+
+.dis h3{
+    margin-left: 23px;
+}
+
+.no{
+    display: inline-block;
+    margin-left: 20px;
+}
+.in{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.btn1{
+    width: 42px;
+    border-radius: 5px;
+    height: 22px;
+    border: 1px solid black;
+    background-color: rgb(216, 245, 254);
+}
+
+.hide{
+    display: none;
+}
+
