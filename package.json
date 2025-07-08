@@ -9,11 +9,19 @@
   "author": "",
   "license": "ISC",
   "type": "module",
-  "description": "",
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^5.1.0",
     "method-override": "^3.0.0",
     "mongoose": "^8.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidhi-circle/MongoDB-Chat-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sidhi-circle/MongoDB-Chat-/issues"
+  },
+  "homepage": "https://github.com/sidhi-circle/MongoDB-Chat-#readme",
+  "description": ""
 }
