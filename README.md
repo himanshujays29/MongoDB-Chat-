@@ -52,3 +52,5 @@ views/*.ejs        # EJS templates (index, new, edit)
 
 ## License
 This project is licensed under the MIT License.
+
+> _Crafted with ❤️ by Himanshu._
