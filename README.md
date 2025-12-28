@@ -12,7 +12,7 @@ A simple chat application inspired by WhatsApp, built with Node.js, Express, Mon
 ## Folder Structure
 ```
 index.js           # Main server file
-init.js            # Initialization logic
+init.js            # DB Initialization logic
 models/chat.js     # Mongoose chat schema/model
 public/app.js      # Client-side JavaScript
 public/style.css   # Stylesheet
